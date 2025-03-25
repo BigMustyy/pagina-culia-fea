@@ -1,0 +1,27 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(https://wallpapers.com/images/hd/outer-wilds-61mb8e7p28ryvvtq.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+
+}
+
+h1, p {
+    text-align: center;
+    color : white;
+}
+
+button {
+    
+    background-color: rgb(39, 39, 39);
+    color: rgb(255, 255, 255);
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
